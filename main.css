@@ -114,3 +114,17 @@ ul + .clfooter {
   display: inline;
   padding-right: 5px;
 }
+
+/* Phase 5 */
+
+.ban::before {
+  content: '☮️ ';
+}
+
+td {
+  border: 1px solid #333;
+}
+
+.cal {
+  border-collapse: collapse;
+}
