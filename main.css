@@ -101,3 +101,16 @@ footer {
 #topban h2{
   text-align: center;
 }
+
+/* Phase 4 */
+
+ul + .clfooter {
+  text-align: center;
+  border-top: 1px solid gray;
+  padding: 10px 0px
+}
+
+.clfooter > li {
+  display: inline;
+  padding-right: 5px;
+}
